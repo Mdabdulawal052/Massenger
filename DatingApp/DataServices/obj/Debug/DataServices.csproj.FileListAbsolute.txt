@@ -1,0 +1,6 @@
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\bin\Debug\DataServices.dll
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\bin\Debug\DataServices.pdb
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\obj\Debug\DataServices.csprojAssemblyReference.cache
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\obj\Debug\DataServices.csproj.CoreCompileInputs.cache
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\obj\Debug\DataServices.dll
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataServices\obj\Debug\DataServices.pdb

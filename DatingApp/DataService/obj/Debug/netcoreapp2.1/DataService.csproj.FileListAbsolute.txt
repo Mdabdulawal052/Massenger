@@ -1,0 +1,12 @@
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\bin\Debug\netcoreapp2.1\DataService.deps.json
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\bin\Debug\netcoreapp2.1\DataService.dll
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\bin\Debug\netcoreapp2.1\DataService.pdb
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.csprojAssemblyReference.cache
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.csproj.CoreCompileInputs.cache
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.AssemblyInfoInputs.cache
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.AssemblyInfo.cs
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.csproj.CopyComplete
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.dll
+D:\mvc\DotNetMvc\DatingApp\DatingApp\DataService\obj\Debug\netcoreapp2.1\DataService.pdb
