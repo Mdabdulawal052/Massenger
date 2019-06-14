@@ -47,6 +47,8 @@ namespace DatingApp
                     opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
                 });
             services.AddCors();
+            //To Access Cloud photo
+            services.Configure<CloudinarySetting>(Configuration.GetSection("CloudinarySetting"));
             //services.AddTransient<Seed>();
             services.AddAutoMapper();
 
@@ -65,6 +67,7 @@ namespace DatingApp
                         ValidateAudience = false
                     };
                 });
+            services.AddScoped<LogUserActivity>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
